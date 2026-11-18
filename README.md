@@ -5,7 +5,13 @@
 
 <p align="center">
 
-![EchoTwin AI](https://placehold.co/1200x360/071827/FFFFFF?text=ECHOTWIN+AI)
+![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/4.png?raw=true)
+
+![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/3.png?raw=true)
+
+![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/2.png?raw=true)
+
+![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/1.png?raw=true)
 
 **One Pipeline. One Digital Twin. A Complete Engineering Picture.**
 
