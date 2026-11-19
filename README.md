@@ -5,6 +5,8 @@
 
 <p align="center">
 
+![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/8.png?raw=true)
+
 ![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/4.png?raw=true)
 
 ![](https://github.com/lucylow/echotwin-ai-The-Intelligent-Multiphase-Subsea-Pipeline-Digital-Twin/blob/main/3.png?raw=true)
